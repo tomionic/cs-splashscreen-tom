@@ -1,0 +1,14 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "cs-splashscreen",
+	"webDir": "www",
+	"bundledWebRuntime": false,
+	"plugins": {
+		"SplashScreen": {
+			"layoutName": "splash",
+			"androidSplashResourceName": "splash",
+			"useDialog": true,
+			"launchShowDuration": 5000
+		}
+	}
+}
